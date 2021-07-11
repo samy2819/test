@@ -1,0 +1,52 @@
+.container {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #ECEFA4;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 4rem;
+  color: #D9DD6B;
+}
+
+p {
+  margin-top: 110px;
+  font-size: 2rem;
+  color: #8D2828;
+  font-family: 'Indie Flower', cursive;
+}
+
+.dice img {
+  width: 80%;
+  filter: brightness(150%);
+}
+
+footer {
+  margin-top: 5%;
+  color: #D54C4C;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+
+.winner
+{
+  margin-top: 5%;
+}
+
+#icon
+{
+  width: 1.5%;
+  margin-right: 10px;
+}
